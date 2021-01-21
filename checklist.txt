@@ -1,0 +1,25 @@
+
+
+- Forensic Questions
+
+- Users:
+	* Authorized Users
+	* Escalation and Deescalation
+	* Auditing
+	* Account Lockout
+
+-Passwords: 
+	* Minimum password length and complexity.
+	* Maximum password age
+
+- Files:
+	* Remove unauthorized files and programs
+	* Install and/or update necessary applications
+
+- Settings: 
+	* Automatic Windows Updates
+	* Activate Firewall
+	* Install and/or Activate antimalware
+	* Default Browser
+	* Authorized services 
+
