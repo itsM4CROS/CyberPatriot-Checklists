@@ -1,16 +1,14 @@
-
-
 - Forensic Questions
 
 - Users:
 	* Authorized Users
 	* Escalation and Deescalation
 	* Auditing
-	* Account Lockout
+	* Account Lockout(3-5 tries)
 
 -Passwords: 
-	* Minimum password length and complexity.
-	* Maximum password age
+	* Minimum password length and complexity (min. 8 characters)
+	* Maximum password age (min. 90 users, min. admins)
 
 - Files:
 	* Remove unauthorized files and programs
@@ -22,4 +20,9 @@
 	* Install and/or Activate antimalware
 	* Default Browser
 	* Authorized services 
-
+	
+-Internet:
+	* Pop-up blocker
+	* Block Cookies
+	* Block location
+	* 
