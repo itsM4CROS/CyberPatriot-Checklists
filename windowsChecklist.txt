@@ -1,0 +1,10 @@
+WINDOWS:	
+
+- Forensic Questions
+- Users:
+	*Escalation and Deescalation
+ 	*Password security
+
+- Files:
+	* Remove unauthorized files and programs.
+
